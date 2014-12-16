@@ -21,17 +21,7 @@ Developing_Data_Products_Coursera
 This shiny application is designes to make different simple regression models in an easy way using mtcars database.
 The dependent variable is the same in all models, it is mpg and the remaining variables are predictors. Also this application makes some graphs to illustrate the distribution of variables including in the selected models and the quality of its fit.
 
-You can us the app clicking [here](https://borjasantoszorrzua.shinyapps.io/shiny/)
+You can us the app clicking [here](https://borjasantoszorrzua.shinyapps.io/shiny/).
 
-### Reproducible pitch presentation
-
-OK, you've made your shiny app, now it's time to make your pitch. You get 5 slides (inclusive of the title slide)  to pitch a your app. You're going to create a web page using Slidify or Rstudio Presenter with an html5 slide deck.
-
-**Here's what you need:**
-
-1. 5 slides to pitch our idea done in Slidify or Rstudio Presenter
-2. Your presentation pushed to github or Rpubs
-3. A link to your github or Rpubs presentation pasted into the text box below
-4. Your presentation must satisfy the following
 
 
